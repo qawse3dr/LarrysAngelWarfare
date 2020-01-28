@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/background.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/Blob.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/blood fountain big.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/blood fountain small.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/bullet.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/cursor.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/DemonSpriteSheet.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/font.spritefont</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/healthBar.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/level.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/level1.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/LightStoneWall.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/player.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/playerSpriteSheet.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/StoneBlock.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/torch.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/wall.png</File>
+    <File>/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/Content/weatherSpriteSheet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

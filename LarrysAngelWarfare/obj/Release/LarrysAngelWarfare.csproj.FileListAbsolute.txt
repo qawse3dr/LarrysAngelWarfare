@@ -1,0 +1,37 @@
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/MonoGame.Framework.dll.config
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/LarrysAngelWarfare.cs
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x86/SDL2.dll
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x64/SDL2.dll
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x86/soft_oal.dll
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x64/soft_oal.dll
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x86/libSDL2-2.0.so.0
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x64/libSDL2-2.0.so.0
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x86/libopenal.so.1
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/x64/libopenal.so.1
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/libSDL2-2.0.0.dylib
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/libopenal.1.dylib
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/LarrysAngelWarfare.exe
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/LarrysAngelWarfare.pdb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/MonoGame.Framework.dll
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/MonoGame.Framework.xml
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/obj/Release/LarrysAngelWarfare.csproj.CopyComplete
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/obj/Release/LarrysAngelWarfare.exe
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/obj/Release/LarrysAngelWarfare.pdb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/blood fountain small.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/LightStoneWall.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/level1.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/torch.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/blood fountain big.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/StoneBlock.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/bullet.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/Blob.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/playerSpriteSheet.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/healthBar.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/level.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/wall.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/font.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/player.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/background.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/weatherSpriteSheet.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/cursor.xnb
+/home/larry/Documents/LarrysAngelWarfare/LarrysAngelWarfare/bin/DesktopGL/AnyCPU/Release/Content/DemonSpriteSheet.xnb

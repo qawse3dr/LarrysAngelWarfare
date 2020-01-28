@@ -34,7 +34,7 @@ namespace LarrysAngelWarfare
             healthBar = Content.Load<Texture2D>("healthBar");
             BloodFountainSmall = Content.Load<Texture2D>("blood fountain small");
             BloodFountainBig= Content.Load<Texture2D>("blood fountain big");
-            Torch = Content.Load<Texture2D>("Torch");
+            Torch = Content.Load<Texture2D>("torch");
             menuBackground = Content.Load<Texture2D>("background");
 
         }

@@ -15,7 +15,9 @@ namespace LarrysAngelWarfare
         //this will be the var that keep track of the screen
         //public static byte FPS = 0;
         //public static GameTime currentTime = new GameTime();
-
+        //This will be used to keep track of what level the game is on
+        public static int levelCounter = 1;
+        
         GraphicsDeviceManager graphics;
         public static SpriteBatch spriteBatch;
         //this will keep track of what screen the game is on
@@ -150,7 +152,7 @@ namespace LarrysAngelWarfare
                     ObjectsList.draw(spriteBatch);
                     break;
                 case currentScreen.loadScreen:
-                    loadLevels("level1");
+                    loadLevels("level"/* + levelCounter.ToString()*/);
                     currentScreen = currentScreen.inGame;
                     break;
                 case currentScreen.startScreen:

@@ -1,10 +1,19 @@
 ﻿<Properties StartupConfiguration="{BB0DDAF9-C7DC-43B8-96C0-FFAF12BE2319}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="objects/Images.cs">
+    <Files>
+      <File FileName="LarrysAngelWarfare.cs" Line="68" Column="13" />
+      <File FileName="objects/Images.cs" Line="37" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LarrysAngelWarfare" expanded="True">
-            <Node name="LarrysAngelWarfare" selected="True" />
+            <Node name="LarrysAngelWarfare" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="objects" expanded="True">
+                <Node name="Images.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -12,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.LarrysAngelWarfare PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
